@@ -1,0 +1,33 @@
+# Arquivos específicos do usuário
+*.rsuser
+*.suo
+*.usuário
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Arquivos de variáveis ​​de ambiente dotenv
+.env
+.env.desenvolvimento
+.env.teste
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+tsconfig.tsbuildinfo
+
+# Node.js
+.ntvs_analysis.dat
+node_modules/
+**/node_modules/
+
+# Chaves SSH
+*.pem
+*.ppk
+
+#Outros Arquivos
+*.ini
+
+# diretório temporário
+.temp
+.tmp
